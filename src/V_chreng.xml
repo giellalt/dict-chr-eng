@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+
+<!DOCTYPE r
+PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᏰᎠ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he eats s.t. (animate)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᎧᎲᎠ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he leaves s.t. behind (animate)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᏂᏙᎭ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he handles s.t. (animate)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᏃᎯᎭ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he brings s.t. (animate) (by carrying in hand/hands)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᎶᎣᏍᎦ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he fall from an elevated position (animate)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᎾᏩᏘᎭ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he finds s.t. (flexible or animate)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᏁᏦᎯᎭ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he brings s.t. (liquid)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Handbook of the Cherokee Verb">
+   <lg>
+      <l pos="V">ᎦᏁᏩᏘᎭ</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">s/he finds s.t. (liquid)</t>
+   </tg>
+   </mg>
+</e>
+
+</r>
